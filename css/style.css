@@ -1,22 +1,10 @@
 
 
-
-/*
- * {
- margin: 0;
- padding: 0;
- box-sizing: border-box;
- }
-*/
-
-
 div {
 display: flex;
 align-items: center;
 align-content: right;
 }
-
-
 
 .navigationbar {
 display: flex;
@@ -91,7 +79,11 @@ font-size: large;
 }
 
 .visualsolutions {
-float:right;
+padding-left: 55%;
+padding-top: 30px;
+padding-bottom: -20px;
+display: flex;
+float: right;
 }
 
 .boxes {
@@ -134,25 +126,6 @@ ul.no-bullets {
     list-style-type: none;
     font-family: sans-serif;
 }
-
-
-/*
-ul li {
-position: relative;
-margin: 0px;
-list-style: none;
-display: inline-block;
-padding: 14px;
-font-size: 17px;
-font-family: sans-serif;
-color:#513963
-*/
-
-
-
-
-
-
 
 
 .bottombar {
