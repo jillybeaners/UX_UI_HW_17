@@ -86,11 +86,20 @@ display: flex;
 float: right;
 }
 
+.upperrow, .bottomrow {
+  width: 90%;
+  display: flex;
+  margin: auto;
+}
+
+
+
 .boxes {
   padding-top: 20px;
   padding-bottom: 20px;
-  margin-left: 90px;
-  margin-bottom: 90px;
+  /* margin-left: 70px;  */
+  margin: auto;
+  margin-bottom: 50px;
 }
 
 table {
