@@ -66,6 +66,14 @@ font-size: larger;
   padding: 50px;
 }
 
+#myBtn {
+  display: flex;
+}
+
+#demo {
+  display: flex;
+}
+
 
 body {
 list-style-type: none;
